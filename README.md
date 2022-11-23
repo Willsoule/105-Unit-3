@@ -11,3 +11,7 @@ The materials have been adapated from the excellent lessons created by the staff
 ![BG45B-north-carolina-covid-19-death-records](https://user-images.githubusercontent.com/118202949/203618839-bc38f1ef-09fa-4cad-96cc-38eb887ba27f.png)
 
  This visualization portrays the amount of new deaths recorded within each submission date in the dataset. 
+ 
+ ![bELyO--nbsp-new-cases-in-nc](https://user-images.githubusercontent.com/118202949/203628425-35cafaed-fe28-477c-8e55-e22fe1a7d4cc.png)
+
+This visualization shows the amount of cases recorded in North Carolina per each sumbission date listed in the CSV file. Through this analysis we see that cases have varied through the past two years, but are starting to level out.
